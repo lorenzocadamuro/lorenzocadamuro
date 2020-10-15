@@ -7,7 +7,7 @@ I'm Lorenzo, a passionate and innately curious **Front-end Engineer** from Italy
 In these years I worked for Gucci, Fendi, Ferrari, Lavazza, Ducati, Nike, Ferrero, Mutti, Ferrarelle, Seat, Bottega Veneta, TIM, Tod’s, Whirlpool.
 
 
-### 🦸🏻‍♂️ Projects
+## 🦸🏻‍♂️ Projects
 
 ✰ [Robin Noguier Portfolio 2020](https://robin-noguier.com)
 
@@ -17,7 +17,7 @@ In these years I worked for Gucci, Fendi, Ferrari, Lavazza, Ducati, Nike, Ferrer
 
 ✰ [MaxMara Bearing Gifts](https://maxmara-bearinggifts.betteringbrands.com)
 
-### 👨🏻‍🔧 Skills
+## 👨🏻‍🔧 Skills
 
 ![](https://img.shields.io/badge/React-★★★★★-informational?style=flat&logo=React&color=0096ff)
 ![](https://img.shields.io/badge/Next.js-★★★★★-informational?style=flat&logo=Next.js&color=0096ff)
@@ -30,7 +30,7 @@ In these years I worked for Gucci, Fendi, Ferrari, Lavazza, Ducati, Nike, Ferrer
 ![](https://img.shields.io/badge/Node.js-★★★☆☆-informational?style=flat&logo=Node.js&color=617f9b)
 ![](https://img.shields.io/badge/Docker-★★☆☆☆-informational?style=flat&logo=Docker&color=617f9b)
 
-### 👨🏻‍💼 Contacts
+## 👨🏻‍💼 Contacts
 
 ✰ [Portfolio](https://lorenzocadamuro.com)
 
