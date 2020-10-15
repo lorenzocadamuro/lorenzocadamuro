@@ -6,13 +6,13 @@ I'm Lorenzo, a passionate and innately curious Front-end Engineer from Italy, wi
 
 ### 🦸🏻‍♂️ Projects
 
-✰ https://robin-noguier.com/
+✰ [Robin Noguier Portfolio 2020](https://robin-noguier.com)
 
-✰ https://www.letgirlsdream.org/
+✰ [Let Girls Dream](https://www.letgirlsdream.org)
 
-✰ http://24hourace.gucci.com/
+✰ [Gucci 24HourAce](http://24hourace.gucci.com)
 
-✰ https://maxmara-bearinggifts.betteringbrands.com/
+✰ [MaxMara Bearing Gifts](https://maxmara-bearinggifts.betteringbrands.com)
 
 ### 👨🏻‍🔧 Skills
 
