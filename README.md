@@ -2,7 +2,7 @@
 
 # Hi! 👋
 
-I'm Lorenzo, a passionate and innately curious Front-end Engineer from Italy, with a dedication for interaction and user experience. I enjoy taking on new challenges, discover emerging technologies, explore innovative solutions.
+I'm Lorenzo, a passionate and innately curious **Front-end Engineer** from Italy 🇮🇹, with a dedication for interaction and user experience. I enjoy taking on new challenges, discover emerging technologies, explore innovative solutions.
 
 ### 🦸🏻‍♂️ Projects
 
