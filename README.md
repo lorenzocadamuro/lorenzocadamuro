@@ -4,6 +4,9 @@
 
 I'm Lorenzo, a passionate and innately curious **Front-end Engineer** from Italy 🇮🇹, with a dedication for interaction and user experience. I enjoy taking on new challenges, discover emerging technologies, explore innovative solutions.
 
+In these years I worked for Gucci, Fendi, Ferrari, Lavazza, Ducati, Nike, Ferrero, Mutti, Ferrarelle, Seat, Bottega Veneta, TIM, Tod’s, Whirlpool.
+
+
 ### 🦸🏻‍♂️ Projects
 
 ✰ [Robin Noguier Portfolio 2020](https://robin-noguier.com)
