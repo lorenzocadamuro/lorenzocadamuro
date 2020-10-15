@@ -1,10 +1,10 @@
-[![Header](https://raw.githubusercontent.com/lorenzocadamuro/lorenzocadamuro/main/assets/header.png?token=AAZPLV4RQKTEFBPBXK5AVS27RCNRO "Header")](https://lorenzocadamuro.com)
+[![Header](https://raw.githubusercontent.com/lorenzocadamuro/lorenzocadamuro/main/assets/header.png "Header")](https://lorenzocadamuro.com)
 
 # Hi! 👋
 
 I'm Lorenzo, a passionate and innately curious Front-end Engineer from Italy, with a dedication for interaction and user experience. I enjoy taking on new challenges, discover emerging technologies, explore innovative solutions.
 
-### 🦸🏻‍♂️ Projects
+## 🦸🏻‍♂️ Projects
 
 → https://robin-noguier.com/
 
@@ -14,7 +14,7 @@ I'm Lorenzo, a passionate and innately curious Front-end Engineer from Italy, wi
 
 → https://maxmara-bearinggifts.betteringbrands.com/
 
-### 👨🏻‍🔧 Skills
+## 👨🏻‍🔧 Skills
 
 ![](https://img.shields.io/badge/React-★★★★★-informational?style=flat&logo=React&logoColor=white&color=0096ff)
 ![](https://img.shields.io/badge/Next.js-★★★★★-informational?style=flat&logo=Next.js&logoColor=white&color=0096ff)
@@ -27,5 +27,5 @@ I'm Lorenzo, a passionate and innately curious Front-end Engineer from Italy, wi
 ![](https://img.shields.io/badge/Node.js-★★★☆☆-informational?style=flat&logo=Node.js&logoColor=white&color=617f9b)
 ![](https://img.shields.io/badge/Docker-★★☆☆☆-informational?style=flat&logo=Docker&logoColor=white&color=617f9b)
 
-### 👨🏻‍💼 Contacts 
-![](https://img.shields.io/badge/GLSL-★★★☆☆-informational?style=flat&logoColor=white&color=617f9b)
+## 👨🏻‍💼 Contacts 
+
