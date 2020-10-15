@@ -17,6 +17,12 @@ In these years I worked for Gucci, Fendi, Ferrari, Lavazza, Ducati, Nike, Ferrer
 
 ✰ [MaxMara Bearing Gifts](https://maxmara-bearinggifts.betteringbrands.com)
 
+## 👨🏻‍🏫 Pubblications
+
+✰ [Taking Continuous Delivery to the Next Level: GitLab CI/CD + AWS](https://medium.com/@lorenzocadamuro/taking-continuous-delivery-to-the-next-level-gitlab-ci-cd-aws-7c7153958fda)
+
+✰ [Increase Your Productivity With Continuous Delivery: GitLab + Netlify](https://medium.com/@lorenzocadamuro/increase-your-productivity-with-continuous-delivery-gitlab-netlify-549b6b3f9a95)
+
 ## 👨🏻‍🔧 Skills
 
 ![](https://img.shields.io/badge/React-★★★★★-informational?style=flat&logo=React&color=0096ff)
