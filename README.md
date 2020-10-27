@@ -17,7 +17,7 @@ In these years I worked for Gucci, Fendi, Ferrari, Lavazza, Ducati, Nike, Ferrer
 
 ✰ [MaxMara Bearing Gifts](https://maxmara-bearinggifts.betteringbrands.com)
 
-## 👨🏻‍🏫 Pubblications
+## 👨🏻‍🏫 Publications
 
 ✰ [How to Build a Creative Portfolio with React JS and WebGL](https://lorenzocadamuro.medium.com/how-to-build-a-creative-portfolio-with-react-js-and-webgl-a697869f78c5)
 
