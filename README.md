@@ -9,6 +9,8 @@ In these years I worked for Gucci, Fendi, Ferrari, Lavazza, Ducati, Nike, Ferrer
 
 ## 🦸🏻‍♂️ Projects
 
+✰ [SAP – Power of Procurement](https://www.sap.com/dmc/exp/2021-02-procurement-agility-tour/en/)
+
 ✰ [Robin Noguier Portfolio 2020](https://robin-noguier.com)
 
 ✰ [Let Girls Dream](https://www.letgirlsdream.org)
