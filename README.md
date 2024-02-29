@@ -37,6 +37,7 @@ With a strong background in programming and a dedication to staying at the foref
 
 ## 👨🏻‍🔧 Skills
 
+![Javascript](https://img.shields.io/badge/Javascript-★★★★★-informational?style=flat&logo=Javascript&color=0096ff)
 [![React](https://img.shields.io/badge/React-★★★★★-informational?style=flat&logo=React&color=0096ff)](https://reactjs.org/)
 [![Next.js](https://img.shields.io/badge/Next.js-★★★★★-informational?style=flat&logo=Next.js&color=0096ff)](https://nextjs.org/)
 [![CI/CD](https://img.shields.io/badge/CI/CD-★★★★★-informational?style=flat&logo=Gitlab&color=0096ff)](https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/)
