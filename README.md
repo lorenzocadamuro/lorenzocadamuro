@@ -1,5 +1,3 @@
-[![Header](https://raw.githubusercontent.com/lorenzocadamuro/lorenzocadamuro/main/assets/header.png "Header")](https://lorenzocadamuro.com)
-
 # Hi! 👋
 
 I'm Lorenzo, a passionate programmer with over 13 years of experience in the field. My innate curiosity and self-motivation drive me to constantly seek out new challenges and explore emerging technologies.
