@@ -2,20 +2,26 @@
 
 # Hi! 👋
 
-I'm Lorenzo, a passionate and innately curious **Front-end Engineer** from Italy 🇮🇹, with a dedication for interaction and user experience. I enjoy taking on new challenges, discover emerging technologies, explore innovative solutions.
+I'm Lorenzo, a passionate programmer with over 13 years of experience in the field. My innate curiosity and self-motivation drive me to constantly seek out new challenges and explore emerging technologies.
 
-In these years I worked for Gucci, Fendi, Ferrari, Lavazza, Ducati, Nike, Ferrero, Mutti, Ferrarelle, Seat, Bottega Veneta, TIM, Tod’s, Whirlpool.
+I enjoy the process of discovering innovative solutions and have a particular affinity for prototyping.
+
+With a strong background in programming and a dedication to staying at the forefront of industry developments, I am a valuable asset to any team looking to tackle complex problems and drive technological innovation.
 
 
 ## 🦸🏻‍♂️ Projects
 
-✰ [SAP – Power of Procurement](https://www.sap.com/dmc/exp/2021-02-procurement-agility-tour/en/)
+✰ [Humane – Catch Me Up Animation](https://twitter.com/lorenzocadamuro/status/1722740296000090270)
+
+✰ [Pitch – Jobs Page](https://twitter.com/lorenzocadamuro/status/1446121344131760136)
+
+✰ [SAP – Power of Procurement](https://thefwa.com/cases/power-of-procurement-interactive-3d-tour)
 
 ✰ [Robin Noguier Portfolio 2020](https://robin-noguier.com)
 
 ✰ [Let Girls Dream](https://www.letgirlsdream.org)
 
-✰ [Gucci 24HourAce](http://24hourace.gucci.com)
+✰ [Gucci 24HourAce](https://www.awwwards.com/sites/24hourace)
 
 ✰ [MaxMara Bearing Gifts](https://maxmara-bearinggifts.betteringbrands.com)
 
