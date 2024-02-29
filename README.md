@@ -13,7 +13,7 @@ With a strong background in programming and a dedication to staying at the foref
 
 ✰ [Pitch – Jobs Page](https://twitter.com/lorenzocadamuro/status/1446121344131760136)
 
-✰ [SAP – Power of Procurement](https://thefwa.com/cases/power-of-procurement-interactive-3d-tour)
+✰ [SAP – Power of Procurement](https://demodern.com/projects/sap-virtual-3d-product-tour)
 
 ✰ [Robin Noguier Portfolio 2020](https://robin-noguier.com)
 
