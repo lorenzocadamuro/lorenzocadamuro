@@ -54,7 +54,7 @@ With a strong background in programming and a dedication to staying at the foref
 
 ✰ [Portfolio](https://lorenzocadamuro.com)
 
-✰ [Twitter](https://twitter.com/lorenzocadamuro)
+✰ [X](https://x.com/lorenzocadamuro)
 
 ✰ [LinkedIn](https://www.linkedin.com/in/lorenzocadamuro)
 
