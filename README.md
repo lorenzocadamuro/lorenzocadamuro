@@ -42,7 +42,7 @@ With a strong background in programming and a dedication to staying at the foref
 [![Typescript](https://img.shields.io/badge/Typescript-★★★★★-informational?style=flat&logo=Typescript&color=3179c6)](https://www.typescriptlang.org/)
 [![Next.js](https://img.shields.io/badge/Next.js-★★★★★-informational?style=flat&logo=Next.js&color=7835ce)](https://nextjs.org/)
 [![Sanity](https://img.shields.io/badge/Sanity-★★★★★-informational?style=flat&logo=Sanity&color=f36458)](https://www.sanity.io/)
-[![CI/CD](https://img.shields.io/badge/CI/CD-★★★★★-informational?style=flat&logo=Gitlab&color=0096ff)](https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/)
+[![Github actions](https://img.shields.io/badge/Github%20actions-★★★★★-informational?style=flat&logo=Github&color=0c1116)](https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/)
 [![Vue.js](https://img.shields.io/badge/Vue-★★★★☆-informational?style=flat&logo=Vue.js&color=617f9b)](https://vuejs.org/)
 [![Nuxt.js](https://img.shields.io/badge/Nuxt.js-★★★★☆-informational?style=flat&logo=Nuxt.js&color=617f9b)](https://nuxtjs.org/)
 [![Three.js](https://img.shields.io/badge/Three.js-★★★☆☆-informational?style=flat&logo=WebGL&color=617f9b)](https://threejs.org/)
