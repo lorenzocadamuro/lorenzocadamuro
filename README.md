@@ -19,7 +19,7 @@ With a strong background in programming and a dedication to staying at the foref
 
 ✰ [Robin Noguier Portfolio 2020](https://robin-noguier.com)
 
-✰ [Let Girls Dream](https://www.letgirlsdream.org)
+✰ [Let Girls Dream](https://www.awwwards.com/sites/let-girls-dream)
 
 ✰ [Gucci 24HourAce](https://www.awwwards.com/sites/24hourace)
 
