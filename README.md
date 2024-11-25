@@ -1,6 +1,6 @@
 # Hi! 👋
 
-I'm Lorenzo, a passionate programmer with over 13 years of experience in the field. My innate curiosity and self-motivation drive me to constantly seek out new challenges and explore emerging technologies.
+I'm Lorenzo, a passionate programmer with over 14 years of experience in the field. My innate curiosity and self-motivation drive me to constantly seek out new challenges and explore emerging technologies.
 
 I enjoy the process of discovering innovative solutions and have a particular affinity for prototyping.
 
